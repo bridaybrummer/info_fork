@@ -4,7 +4,7 @@ Technology, next-generation sequencing, and big-data have necessitated the use o
 
 ## Objectives:
 
-- For Brian to get really good at coding and collaborating
+- For Brian to get really good at coding and collaborating (second commit?)
 - Troubleshooting coding related issues
 - Finding efficient ways of solving problems through coding
 - Simplifying data analysis, manipulation and management
@@ -23,7 +23,7 @@ Technology, next-generation sequencing, and big-data have necessitated the use o
 
 Provide an introduction to your project.
 
-## ATC Agenda
+
 
 You can view the ATC Agenda document [here](https://drive.google.com/your-agenda-link).
 
