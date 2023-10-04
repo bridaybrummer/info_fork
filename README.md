@@ -4,7 +4,7 @@ Technology, next-generation sequencing, and big-data have necessitated the use o
 
 ## Objectives:
 
-- For Brian to get really good at coding and collaborating (second commit?)
+- For Brian to get really good at coding and collaborating (second commit?)(third commit)
 - Troubleshooting coding related issues
 - Finding efficient ways of solving problems through coding
 - Simplifying data analysis, manipulation and management
